@@ -12,9 +12,6 @@ Sou um programador Python de 20 anos com grande paixão por desenvolver soluçõ
 - **Node.js**: 70% de habilidade
 - **Projetos de Discord Instalados**: 300+ 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical&count_private=true)
-![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical)
-
 ### 🛠️ Projetos
 Todos os meus projetos estão em privado por questões de confidencialidade, mas trabalho com uma variedade de bots personalizados para Discord, que incluem:
 - **Bot de Feedbacks**: Um bot que gera feedbacks automáticos para lojas virtuais.
