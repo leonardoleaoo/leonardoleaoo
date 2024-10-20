@@ -4,11 +4,15 @@
 Sou um programador Python de 20 anos com grande paixão por desenvolver soluções inovadoras. Todo o meu trabalho é realizado em Python, onde me considero um especialista. Embora eu tenha projetos em Node.js, meu nível é intermediário.
 
 ### 🚀 Habilidades
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 
 ### 📈 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical&count_private=true&hide_title=true)
+- **Python**: 95% de habilidade
+- **Node.js**: 70% de habilidade
+- **Projetos de Discord Instalados**: 300+ 
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical&count_private=true)
 ![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical)
 
 ### 🛠️ Projetos
