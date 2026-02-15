@@ -1,6 +1,6 @@
 ﻿# Leonardo Leao
 
-Desenvolvedor Full Stack focado em produtos digitais escalaveis, com experiencia em web, mobile e backend para operacoes reais.
+Desenvolvedor Full Stack focado em engenharia de produto, com atuacao em web, mobile e backend para ambientes de alta demanda operacional.
 
 Atualizado em: 15/02/2026
 
@@ -27,22 +27,21 @@ Atualizado em: 15/02/2026
 
 > Projetos privados por estrategia comercial e confidencialidade. Apresento arquitetura, demo e detalhes tecnicos em conversa.
 
-- `NutriOne` (TypeScript): SaaS multiclinica para nutricao e nutrologia (web + mobile + API).
-- `Sistema-para-bares` (TypeScript): plataforma para operacao de bares/restaurantes com backend multi-tenant.
-- `Plataforma-para-cursos-online` (TypeScript): base monorepo para plataforma de membros e aprendizado.
-- `Copia-GIGU` (Kotlin): app Android para motoristas de mobilidade com overlay e calculo de ganhos.
-- `Calculadora-de-Investimentos---APP-MOBILE` (JavaScript): app mobile Expo/React Native para simulacoes financeiras.
-- `Site-MSB-Engenharia` (PHP): site institucional com captacao de leads e painel administrativo.
-- `Sistema-para-amigo-secreto` (PHP): sistema web para sorteio de amigo secreto com login e painel admin.
-- `APP-RESTAURANTES` (JavaScript): sistema operacional de lanchonete (cardapio, comandas e caixa).
-- `leonardoleaoo.github.io` (HTML): base do site pessoal.
+- `NutriOne` (TypeScript): plataforma SaaS multiclinica para nutricao e nutrologia, com arquitetura web + mobile + API.
+- `Plataforma SaaS Multi-tenant de Operacoes Food Service` (TypeScript): gestao de atendimento, fluxo de caixa e operacao de PDV.
+- `LMS Multi-tenant para Assinaturas e Conteudo` (TypeScript): arquitetura monorepo para plataforma de membros e aprendizado.
+- `Motor de Simulacao Financeira Mobile` (JavaScript): app Expo/React Native para projecoes de investimento e planejamento.
+- `Site MSB Engenharia` (PHP): portal institucional com captacao de leads e backoffice administrativo.
+- `Sistema para Amigo Secreto` (PHP): plataforma web de sorteio com autenticacao, regras anti-colisao e painel de gestao.
+- `Sistema Web de Comandas e Caixa em Tempo Real` (JavaScript): operacao de cardapio, pedidos e fechamento.
+- `Portfolio Web e Presenca Digital` (HTML): base de comunicacao profissional e validacao tecnica online.
 
 ## O que entrego
 
-- Desenvolvimento full stack com visao de produto
-- Codigo limpo, documentado e pronto para evolucao
-- Estrutura tecnica para crescer sem travar operacao
-- Comunicacao objetiva e ritmo de entrega
+- Desenvolvimento full stack com visao de produto e impacto de negocio
+- Codigo limpo, documentado e preparado para escala
+- Arquitetura orientada a performance, manutencao e continuidade
+- Comunicacao objetiva com execucao consistente
 
 ## GitHub stats
 
