@@ -1,12 +1,14 @@
 ﻿# Leonardo Leao
 
-Desenvolvedor Full Stack com foco em produtos digitais escalaveis, unindo backend, frontend e mobile para gerar resultado de negocio.
+Desenvolvedor Full Stack focado em produtos digitais escalaveis, com experiencia em web, mobile e backend para operacoes reais.
 
-## Posicionamento
+Atualizado em: 15/02/2026
 
-- Construo produtos do zero ate producao
-- Atuo com arquitetura SaaS, APIs, automacoes e integracoes
-- Trabalho com foco em qualidade tecnica, velocidade de entrega e manutencao
+## Foco profissional
+
+- Arquitetura e desenvolvimento de plataformas SaaS
+- APIs, automacoes e integracoes orientadas a negocio
+- Entrega ponta a ponta: produto, codigo e operacao
 
 ## Stack principal
 
@@ -18,35 +20,31 @@ Desenvolvedor Full Stack com foco em produtos digitais escalaveis, unindo backen
 ![React_Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-## Projetos atuais
+## Portfolio atual (repositorios privados)
 
-### NutriOne (repositorio privado)
-Plataforma SaaS multiclinica para nutricao e nutrologia.
+> Projetos privados por estrategia comercial e confidencialidade. Apresento arquitetura, demo e detalhes tecnicos em conversa.
 
-- Arquitetura completa: web + mobile + API
-- Web: Next.js + React
-- Mobile: Expo + React Native
-- Backend: NestJS + Prisma + MySQL/MariaDB
-- Modulos: agenda, prontuario, financeiro, estoque, marketing, relatorios e controle de perfis
+- `NutriOne` (TypeScript): SaaS multiclinica para nutricao e nutrologia (web + mobile + API).
+- `Sistema-para-bares` (TypeScript): plataforma para operacao de bares/restaurantes com backend multi-tenant.
+- `Plataforma-para-cursos-online` (TypeScript): base monorepo para plataforma de membros e aprendizado.
+- `Copia-GIGU` (Kotlin): app Android para motoristas de mobilidade com overlay e calculo de ganhos.
+- `Calculadora-de-Investimentos---APP-MOBILE` (JavaScript): app mobile Expo/React Native para simulacoes financeiras.
+- `Site-MSB-Engenharia` (PHP): site institucional com captacao de leads e painel administrativo.
+- `Sistema-para-amigo-secreto` (PHP): sistema web para sorteio de amigo secreto com login e painel admin.
+- `APP-RESTAURANTES` (JavaScript): sistema operacional de lanchonete (cardapio, comandas e caixa).
+- `leonardoleaoo.github.io` (HTML): base do site pessoal.
 
-### APP-RESTAURANTES / Agrvai (repositorio privado)
-Sistema operacional de lanchonete focado em atendimento rapido.
+## O que entrego
 
-- Backend: Node.js + Express + SQLite
-- Frontend: JS, HTML e CSS
-- Fluxos: cardapio, abertura de comandas, lancamento de itens, fechamento de caixa e nota simplificada
+- Desenvolvimento full stack com visao de produto
+- Codigo limpo, documentado e pronto para evolucao
+- Estrutura tecnica para crescer sem travar operacao
+- Comunicacao objetiva e ritmo de entrega
 
-## O que voce pode esperar ao me contratar
-
-- Visao de produto com execucao tecnica forte
-- Codigo organizado, documentado e preparado para evolucao
-- Comunicacao direta e foco em entrega
-- Capacidade de atuar em todo o ciclo de desenvolvimento
-
-## GitHub
-
-> Parte dos projetos esta privada por confidencialidade. Posso apresentar contexto tecnico, arquitetura e demonstracao sob demanda.
+## GitHub stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoleaoo&show_icons=true&theme=transparent&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoleaoo&layout=compact&theme=transparent&hide_border=true)
@@ -57,4 +55,4 @@ Sistema operacional de lanchonete focado em atendimento rapido.
 - WhatsApp: [wa.me/5562981336389](https://wa.me/5562981336389)
 - Instagram: [@Leonardoleao.7](https://instagram.com/Leonardoleao.7)
 
-Se voce recruta para vagas Full Stack, backend, frontend ou mobile, estou disponivel para conversar.
+Aberto a oportunidades para Full Stack, Backend, Frontend e Mobile.
