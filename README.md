@@ -27,7 +27,7 @@ Sou desenvolvedor Full Stack, com foco em engenharia de produto e experiência p
 
 - `NutriOne` (TypeScript): plataforma SaaS multiclínica para nutrição e nutrologia, com arquitetura web + mobile + API.
 - `Sistema SaaS Multi-tenant para Operações Food Service` (TypeScript): gestão de atendimento, fluxo de caixa e operação de PDV.
-- `Sistema LMS Multi-tenant para Assinaturas e Conteúdo` (TypeScript): arquitetura monorepo para plataforma de membros e aprendizado.
+- `Sistema LMS Multi-tenant para Assinaturas e Conteúdo` (TypeScript): plataforma de área de membros com gestão de acesso, trilhas, módulos e conteúdo por assinatura.
 - `Sistema Mobile de Assistência Operacional para Mobilidade` (Kotlin): app Android com recursos de produtividade e suporte à operação.
 - `Sistema Mobile de Simulação Financeira` (JavaScript): app Expo/React Native para projeções de investimento e planejamento.
 - `Site MSB Engenharia` (PHP): portal institucional com captação de leads e backoffice administrativo.
@@ -41,11 +41,6 @@ Sou desenvolvedor Full Stack, com foco em engenharia de produto e experiência p
 - Código limpo, documentado e preparado para escala
 - Arquitetura orientada a performance, manutenção e continuidade
 - Comunicação objetiva, com execução consistente
-
-## Estatísticas do GitHub
-
-![Estatísticas GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardoleaoo&theme=github_dark)
-![Principais idiomas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonardoleaoo&theme=github_dark)
 
 ## Contato
 
