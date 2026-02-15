@@ -1,14 +1,12 @@
-﻿# Leonardo Leao
+﻿# Leonardo Leão
 
-Desenvolvedor Full Stack focado em engenharia de produto, com atuacao em web, mobile e backend para ambientes de alta demanda operacional.
-
-Atualizado em: 15/02/2026
+Sou desenvolvedor Full Stack, com foco em engenharia de produto e experiência prática em web, mobile e backend para operações de alta demanda.
 
 ## Foco profissional
 
 - Arquitetura e desenvolvimento de plataformas SaaS
-- APIs, automacoes e integracoes orientadas a negocio
-- Entrega ponta a ponta: produto, codigo e operacao
+- APIs, automações e integrações orientadas a negócio
+- Entrega de ponta a ponta: produto, código e operação
 
 ## Stack principal
 
@@ -23,26 +21,26 @@ Atualizado em: 15/02/2026
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-## Portfolio atual (repositorios privados)
+## Portfólio atual (repositórios privados)
 
-> Projetos privados por estrategia comercial e confidencialidade. Apresento arquitetura, demo e detalhes tecnicos em conversa.
+> Meus projetos estão privados por estratégia comercial e confidencialidade. Em conversa, apresento arquitetura, demo e detalhes técnicos.
 
-- `NutriOne` (TypeScript): plataforma SaaS multiclinica para nutricao e nutrologia, com arquitetura web + mobile + API.
-- `Sistema SaaS Multi-tenant para Operacoes Food Service` (TypeScript): gestao de atendimento, fluxo de caixa e operacao de PDV.
-- `Sistema LMS Multi-tenant para Assinaturas e Conteudo` (TypeScript): arquitetura monorepo para plataforma de membros e aprendizado.
-- `Sistema Mobile de Assistencia Operacional para Mobilidade` (Kotlin): app Android com recursos de produtividade e suporte a operacao.
-- `Sistema Mobile de Simulacao Financeira` (JavaScript): app Expo/React Native para projecoes de investimento e planejamento.
-- `Site MSB Engenharia` (PHP): portal institucional com captacao de leads e backoffice administrativo.
-- `Sistema para Amigo Secreto` (PHP): plataforma web de sorteio com autenticacao, regras anti-colisao e painel de gestao.
-- `Sistema Web de Comandas e Caixa em Tempo Real` (JavaScript): operacao de cardapio, pedidos e fechamento.
-- `Sistema Web de Portfolio e Presenca Digital` (HTML): base de comunicacao profissional e validacao tecnica online.
+- `NutriOne` (TypeScript): plataforma SaaS multiclínica para nutrição e nutrologia, com arquitetura web + mobile + API.
+- `Sistema SaaS Multi-tenant para Operações Food Service` (TypeScript): gestão de atendimento, fluxo de caixa e operação de PDV.
+- `Sistema LMS Multi-tenant para Assinaturas e Conteúdo` (TypeScript): arquitetura monorepo para plataforma de membros e aprendizado.
+- `Sistema Mobile de Assistência Operacional para Mobilidade` (Kotlin): app Android com recursos de produtividade e suporte à operação.
+- `Sistema Mobile de Simulação Financeira` (JavaScript): app Expo/React Native para projeções de investimento e planejamento.
+- `Site MSB Engenharia` (PHP): portal institucional com captação de leads e backoffice administrativo.
+- `Sistema para Amigo Secreto` (PHP): plataforma web de sorteio com autenticação, regras anti-colisão e painel de gestão.
+- `Sistema Web de Comandas e Caixa em Tempo Real` (JavaScript): operação de cardápio, pedidos e fechamento.
+- `Sistema Web de Portfólio e Presença Digital` (HTML): base de comunicação profissional e validação técnica online.
 
 ## O que entrego
 
-- Desenvolvimento full stack com visao de produto e impacto de negocio
-- Codigo limpo, documentado e preparado para escala
-- Arquitetura orientada a performance, manutencao e continuidade
-- Comunicacao objetiva com execucao consistente
+- Desenvolvimento full stack com visão de produto e impacto de negócio
+- Código limpo, documentado e preparado para escala
+- Arquitetura orientada a performance, manutenção e continuidade
+- Comunicação objetiva, com execução consistente
 
 ## GitHub stats
 
@@ -55,4 +53,4 @@ Atualizado em: 15/02/2026
 - WhatsApp: [wa.me/5562981336389](https://wa.me/5562981336389)
 - Instagram: [@Leonardoleao.7](https://instagram.com/Leonardoleao.7)
 
-Aberto a oportunidades para Full Stack, Backend, Frontend e Mobile.
+Estou aberto a oportunidades em Full Stack, Backend, Frontend e Mobile.
