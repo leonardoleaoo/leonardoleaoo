@@ -42,10 +42,10 @@ Sou desenvolvedor Full Stack, com foco em engenharia de produto e experiência p
 - Arquitetura orientada a performance, manutenção e continuidade
 - Comunicação objetiva, com execução consistente
 
-## GitHub stats
+## Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoleaoo&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoleaoo&layout=compact&theme=transparent&hide_border=true)
+![Estatísticas GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardoleaoo&theme=github_dark)
+![Principais idiomas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonardoleaoo&theme=github_dark)
 
 ## Contato
 
