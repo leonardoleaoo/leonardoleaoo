@@ -28,13 +28,14 @@ Atualizado em: 15/02/2026
 > Projetos privados por estrategia comercial e confidencialidade. Apresento arquitetura, demo e detalhes tecnicos em conversa.
 
 - `NutriOne` (TypeScript): plataforma SaaS multiclinica para nutricao e nutrologia, com arquitetura web + mobile + API.
-- `Plataforma SaaS Multi-tenant de Operacoes Food Service` (TypeScript): gestao de atendimento, fluxo de caixa e operacao de PDV.
-- `LMS Multi-tenant para Assinaturas e Conteudo` (TypeScript): arquitetura monorepo para plataforma de membros e aprendizado.
-- `Motor de Simulacao Financeira Mobile` (JavaScript): app Expo/React Native para projecoes de investimento e planejamento.
+- `Sistema SaaS Multi-tenant para Operacoes Food Service` (TypeScript): gestao de atendimento, fluxo de caixa e operacao de PDV.
+- `Sistema LMS Multi-tenant para Assinaturas e Conteudo` (TypeScript): arquitetura monorepo para plataforma de membros e aprendizado.
+- `Sistema Mobile de Assistencia Operacional para Mobilidade` (Kotlin): app Android com recursos de produtividade e suporte a operacao.
+- `Sistema Mobile de Simulacao Financeira` (JavaScript): app Expo/React Native para projecoes de investimento e planejamento.
 - `Site MSB Engenharia` (PHP): portal institucional com captacao de leads e backoffice administrativo.
 - `Sistema para Amigo Secreto` (PHP): plataforma web de sorteio com autenticacao, regras anti-colisao e painel de gestao.
 - `Sistema Web de Comandas e Caixa em Tempo Real` (JavaScript): operacao de cardapio, pedidos e fechamento.
-- `Portfolio Web e Presenca Digital` (HTML): base de comunicacao profissional e validacao tecnica online.
+- `Sistema Web de Portfolio e Presenca Digital` (HTML): base de comunicacao profissional e validacao tecnica online.
 
 ## O que entrego
 
