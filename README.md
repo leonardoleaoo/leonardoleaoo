@@ -1,38 +1,60 @@
-# Olá, eu sou Leonardo Leão 👋
+﻿# Leonardo Leao
 
-### Sobre mim
-Tenho 21 anos e atuo no desenvolvimento de soluções práticas e escaláveis. Trabalho com back-end e front-end, desenvolvendo sistemas completos, integrações e automações, sempre com foco em eficiência e aprendizado contínuo.
+Desenvolvedor Full Stack com foco em produtos digitais escalaveis, unindo backend, frontend e mobile para gerar resultado de negocio.
 
-### 🚀 Habilidades
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
-![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+## Posicionamento
 
-### 📈 Estatísticas
-- **Python**: 95% de habilidade
-- **Node.js**: 70% de habilidade
-- **Java**: 85% de habilidade
-- **React**: 85% de habilidade
+- Construo produtos do zero ate producao
+- Atuo com arquitetura SaaS, APIs, automacoes e integracoes
+- Trabalho com foco em qualidade tecnica, velocidade de entrega e manutencao
 
-### 🧩 O que eu faço bem
-- APIs e integrações com foco em performance e confiabilidade
-- Automação de processos e redução de trabalho manual
-- Organização de projetos, documentação e entrega consistente
+## Stack principal
 
-### 🛠 Projetos
-Todos os meus projetos atuais estão privados por confidencialidade, mas já desenvolvi soluções para empresas como a MSB Engenharia: https://msbengenharia.com/.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Em breve lançarei projetos maiores, incluindo um **SaaS** com:
-- Web de gerenciamento
-- App mobile para Android e iOS voltado para clientes
+## Projetos atuais
 
-Também liberarei projetos **open source** e alguns projetos pessoais de treino que fiz em momentos aleatórios.
+### NutriOne (repositorio privado)
+Plataforma SaaS multiclinica para nutricao e nutrologia.
 
-### 📫 Contato
+- Arquitetura completa: web + mobile + API
+- Web: Next.js + React
+- Mobile: Expo + React Native
+- Backend: NestJS + Prisma + MySQL/MariaDB
+- Modulos: agenda, prontuario, financeiro, estoque, marketing, relatorios e controle de perfis
+
+### APP-RESTAURANTES / Agrvai (repositorio privado)
+Sistema operacional de lanchonete focado em atendimento rapido.
+
+- Backend: Node.js + Express + SQLite
+- Frontend: JS, HTML e CSS
+- Fluxos: cardapio, abertura de comandas, lancamento de itens, fechamento de caixa e nota simplificada
+
+## O que voce pode esperar ao me contratar
+
+- Visao de produto com execucao tecnica forte
+- Codigo organizado, documentado e preparado para evolucao
+- Comunicacao direta e foco em entrega
+- Capacidade de atuar em todo o ciclo de desenvolvimento
+
+## GitHub
+
+> Parte dos projetos esta privada por confidencialidade. Posso apresentar contexto tecnico, arquitetura e demonstracao sob demanda.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoleaoo&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoleaoo&layout=compact&theme=transparent&hide_border=true)
+
+## Contato
+
 - Email: [leoodonvito@gmail.com](mailto:leoodonvito@gmail.com)
-- WhatsApp: [Clique aqui](https://wa.me/5562981336389)
-- Instagram: @Leonardoleao.7
+- WhatsApp: [wa.me/5562981336389](https://wa.me/5562981336389)
+- Instagram: [@Leonardoleao.7](https://instagram.com/Leonardoleao.7)
 
-### 🌟 Nota
-Embora eu não possa divulgar o código dos projetos privados, estou sempre aberto a discutir ideias e colaborar em novos desafios.
+Se voce recruta para vagas Full Stack, backend, frontend ou mobile, estou disponivel para conversar.
