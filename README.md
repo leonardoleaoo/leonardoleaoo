@@ -62,7 +62,6 @@ Por estratégia comercial e confidencialidade, os repositórios operacionais est
 | `Sistema-para-amigo-secreto` | **Aplicação Web de Sorteio e Gestão de Eventos Privados** | Gestão de participantes, autenticação, regras de sorteio e painel administrativo. | PHP, JavaScript, JSON storage |
 | `Optimizer` | **Suíte de Otimização de Performance e Hardening para Windows** | Automação de ajustes de desempenho, privacidade e estabilidade em ambiente Windows. | C#, .NET, WinForms |
 | `Site-MSB-Engenharia` | **Portal Institucional e Gestão Comercial de Leads** | Presença digital corporativa com SEO técnico, funil de contato e painel administrativo. | PHP, HTML, CSS, JavaScript |
-| `leonardoleaoo.github.io` | **Portal de Presença Digital e Portfólio Técnico** | Base de comunicação profissional e direcionamento para canais e serviços. | HTML, CSS |
 
 ## Titularidade dos Sistemas
 Os sistemas apresentados neste portfólio são de minha autoria.
