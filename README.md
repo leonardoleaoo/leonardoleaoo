@@ -45,13 +45,24 @@ Também coordeno a frente de **marketing**, conectando estratégia, posicionamen
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff)
 
-## Portfólio Técnico (Recorte Estratégico)
-| Projeto | Escopo | Stack principal |
-| --- | --- | --- |
-| **NutriOne (SaaS multiclínica)** | Plataforma para clínicas com painel web, aplicativo mobile, API, prontuário, financeiro, operações e módulos de crescimento. | Next.js, NestJS, Prisma, MariaDB, Expo/React Native |
-| **ValorFuturo (mobile)** | Aplicativo de simulação financeira com foco offline, cenários comparativos e planejamento de investimento. | Expo, React Native, JavaScript, AsyncStorage |
-| **Ponto Eletrônico (desktop)** | Sistema desktop para controle de jornada, histórico operacional, exportação CSV e integração com Telegram. | Python, PySide6, SQLite, PyInstaller |
-| **Site MSB Engenharia** | Estrutura institucional para presença digital, autoridade e captação qualificada. | HTML, CSS, PHP |
+## Portfólio Técnico (Repositórios Privados)
+Por estratégia comercial e confidencialidade, os repositórios operacionais estão privados.
+
+| Repositório | Nome técnico para apresentação | Escopo | Stack principal |
+| --- | --- | --- | --- |
+| `Premium-Interset` | **Plataforma Mobile de Fiscalização de Campo e Operações Offline** | Aplicativo corporativo para AsBuilt, APR, checklist, inspeções e sincronização offline/online. | React Native, Expo, TypeScript, MobX/MST |
+| `NutriOne` | **Plataforma SaaS Multiclínica para Nutrição e Nutrologia** | Ecossistema web + mobile + API para gestão clínica, operação e crescimento. | Next.js, NestJS, Prisma, MariaDB, Expo/React Native |
+| `Plataforma-para-cursos-online` | **LMS Multi-tenant para Assinaturas e Conteúdo** | Plataforma de ensino com gestão de acesso, trilhas, módulos e integrações educacionais. | React, Fastify, TypeScript, Postgres, Prisma |
+| `Sistema-para-bares` | **Plataforma Multi-tenant de Gestão Operacional para Food Service** | Gestão de pedidos, cardápio, caixa, financeiro, estoque e módulos administrativos. | Node.js, Express, TypeScript, MySQL, Prisma, React |
+| `APP-RESTAURANTES` | **Sistema Web de PDV e Gestão de Comandas** | Operação de lanchonete/restaurante com abertura de comanda, caixa e nota simplificada. | JavaScript, Node.js, SQLite |
+| `Calculadora-de-Investimentos---APP-MOBILE` | **Aplicativo Mobile de Simulação de Investimentos** | Simulação financeira, cenários comparativos e planejamento com persistência local. | React Native, Expo, JavaScript, AsyncStorage |
+| `Ponto-Eletronico` | **Sistema Desktop de Controle de Jornada e Produtividade** | Registro de ponto, histórico, análises, exportação CSV e integrações operacionais. | Python, PySide6, SQLite, PyInstaller |
+| `Gate-Vision` | **Sistema de Leitura de Placas e Controle Inteligente de Acesso** | LPR/OCR em tempo real para portarias, com auditoria, métricas e observabilidade. | Python, FastAPI, OpenCV, Tesseract |
+| `Copia-GIGU` | **Plataforma Mobile de Assistência Operacional para Mobilidade Urbana** | Aplicativo Android para motoristas com overlay, acessibilidade, segurança e produtividade. | Kotlin, Jetpack Compose, Room, WorkManager |
+| `Sistema-para-amigo-secreto` | **Aplicação Web de Sorteio e Gestão de Eventos Privados** | Gestão de participantes, autenticação, regras de sorteio e painel administrativo. | PHP, JavaScript, JSON storage |
+| `Optimizer` | **Suíte de Otimização de Performance e Hardening para Windows** | Automação de ajustes de desempenho, privacidade e estabilidade em ambiente Windows. | C#, .NET, WinForms |
+| `Site-MSB-Engenharia` | **Portal Institucional e Gestão Comercial de Leads** | Presença digital corporativa com SEO técnico, funil de contato e painel administrativo. | PHP, HTML, CSS, JavaScript |
+| `leonardoleaoo.github.io` | **Portal de Presença Digital e Portfólio Técnico** | Base de comunicação profissional e direcionamento para canais e serviços. | HTML, CSS |
 
 ## Titularidade dos Sistemas
 Os sistemas apresentados neste portfólio são de minha autoria.
