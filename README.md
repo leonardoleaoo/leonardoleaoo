@@ -1,7 +1,7 @@
 ﻿# Leonardo Leão
 
 <p align="center">
-  <strong>Engenharia de Software e Estratégia Digital para operações empresariais de alta exigência.</strong>
+  <strong>Engenharia de Software, Arquitetura de Sistemas e Estratégia Digital para operações empresariais.</strong>
 </p>
 
 <p align="center">
@@ -17,12 +17,12 @@
 </p>
 
 ## Posicionamento Profissional
-Atuo no desenvolvimento de sistemas que sustentam operação, crescimento e tomada de decisão. Minha atuação combina engenharia de software, visão de produto e execução orientada a resultado.
+Atuo no desenvolvimento de sistemas que sustentam operação, crescimento e tomada de decisão. Minha atuação integra engenharia de software, visão de produto e execução orientada a resultado.
 
 ## Atuação Atual
 Sou **Engenheiro de Software** na **Interset Tecnologia** e na **MSB Engenharia**, com responsabilidade direta na arquitetura, criação e evolução de sistemas ligados às operações das duas empresas.
 
-Também coordeno a frente de **marketing**, conectando estratégia, posicionamento digital e execução para fortalecer marca, geração de demanda e conversão comercial.
+Também coordeno a frente de **marketing**, conectando estratégia, posicionamento digital e execução para fortalecer marca, gerar demanda e ampliar conversão comercial.
 
 ## Soluções que Entrego
 - Arquitetura e desenvolvimento de plataformas SaaS.
@@ -54,8 +54,8 @@ Por estratégia comercial e confidencialidade, os repositórios operacionais est
 | `NutriOne` | **Plataforma SaaS Multiclínica para Nutrição e Nutrologia** | Ecossistema web + mobile + API para gestão clínica, operação e crescimento. | Next.js, NestJS, Prisma, MariaDB, Expo/React Native |
 | `Plataforma-para-cursos-online` | **LMS Multi-tenant para Assinaturas e Conteúdo** | Plataforma de ensino com gestão de acesso, trilhas, módulos e integrações educacionais. | React, Fastify, TypeScript, Postgres, Prisma |
 | `Sistema-para-bares` | **Plataforma Multi-tenant de Gestão Operacional para Food Service** | Gestão de pedidos, cardápio, caixa, financeiro, estoque e módulos administrativos. | Node.js, Express, TypeScript, MySQL, Prisma, React |
-| `APP-RESTAURANTES` | **Sistema Web de PDV e Gestão de Comandas** | Operação de lanchonete/restaurante com abertura de comanda, caixa e nota simplificada. | JavaScript, Node.js, SQLite |
-| `Calculadora-de-Investimentos---APP-MOBILE` | **Aplicativo Mobile de Simulação de Investimentos** | Simulação financeira, cenários comparativos e planejamento com persistência local. | React Native, Expo, JavaScript, AsyncStorage |
+| `APP-RESTAURANTES` | **Plataforma Web de PDV e Gestão de Comandas** | Operação de lanchonete/restaurante com abertura de comanda, caixa e nota simplificada. | JavaScript, Node.js, SQLite |
+| `Calculadora-de-Investimentos---APP-MOBILE` | **Plataforma Mobile de Simulação de Investimentos** | Simulação financeira, cenários comparativos e planejamento com persistência local. | React Native, Expo, JavaScript, AsyncStorage |
 | `Ponto-Eletronico` | **Sistema Desktop de Controle de Jornada e Produtividade** | Registro de ponto, histórico, análises, exportação CSV e integrações operacionais. | Python, PySide6, SQLite, PyInstaller |
 | `Gate-Vision` | **Sistema de Leitura de Placas e Controle Inteligente de Acesso** | LPR/OCR em tempo real para portarias, com auditoria, métricas e observabilidade. | Python, FastAPI, OpenCV, Tesseract |
 | `Copia-GIGU` | **Plataforma Mobile de Assistência Operacional para Mobilidade Urbana** | Aplicativo Android para motoristas com overlay, acessibilidade, segurança e produtividade. | Kotlin, Jetpack Compose, Room, WorkManager |
