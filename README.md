@@ -50,7 +50,7 @@ Por estratégia comercial e confidencialidade, os repositórios operacionais est
 
 | Repositório | Nome técnico para apresentação | Escopo | Stack principal |
 | --- | --- | --- | --- |
-| `Premium-Interset` | **Plataforma Mobile de Fiscalização de Campo e Operações Offline** | Aplicativo corporativo para AsBuilt, APR, checklist, inspeções e sincronização offline/online. | React Native, Expo, TypeScript, MobX/MST |
+| `Premium-Interset` | **Plataforma Mobile de Fiscalização de Campo e Operações Offline** | Aplicativo corporativo para AsBuilt, APR, checklist, inspeções e sincronização offline/online. Atualmente atuo na refatoração do código, correção de falhas e manutenção contínua da solução. | React Native, Expo, TypeScript, MobX/MST |
 | `NutriOne` | **Plataforma SaaS Multiclínica para Nutrição e Nutrologia** | Ecossistema web + mobile + API para gestão clínica, operação e crescimento. | Next.js, NestJS, Prisma, MariaDB, Expo/React Native |
 | `Plataforma-para-cursos-online` | **LMS Multi-tenant para Assinaturas e Conteúdo** | Plataforma de ensino com gestão de acesso, trilhas, módulos e integrações educacionais. | React, Fastify, TypeScript, Postgres, Prisma |
 | `Sistema-para-bares` | **Plataforma Multi-tenant de Gestão Operacional para Food Service** | Gestão de pedidos, cardápio, caixa, financeiro, estoque e módulos administrativos. | Node.js, Express, TypeScript, MySQL, Prisma, React |
@@ -61,14 +61,14 @@ Por estratégia comercial e confidencialidade, os repositórios operacionais est
 | `Copia-GIGU` | **Plataforma Mobile de Assistência Operacional para Mobilidade Urbana** | Aplicativo Android para motoristas com overlay, acessibilidade, segurança e produtividade. | Kotlin, Jetpack Compose, Room, WorkManager |
 | `Sistema-para-amigo-secreto` | **Aplicação Web de Sorteio e Gestão de Eventos Privados** | Gestão de participantes, autenticação, regras de sorteio e painel administrativo. | PHP, JavaScript, JSON storage |
 | `Optimizer` | **Suíte de Otimização de Performance e Hardening para Windows** | Automação de ajustes de desempenho, privacidade e estabilidade em ambiente Windows. | C#, .NET, WinForms |
-| `Site-MSB-Engenharia` | **Portal Institucional e Gestão Comercial de Leads** | Presença digital corporativa com SEO técnico, funil de contato e painel administrativo. | PHP, HTML, CSS, JavaScript |
+| `Site-MSB-Engenharia` | **Portal Institucional e Gestão Comercial de Leads** | Presença digital corporativa com SEO técnico, funil de contato e painel administrativo. Projeto desenvolvido por mim e atualmente sob minha manutenção evolutiva e corretiva. | PHP, HTML, CSS, JavaScript |
 
 ## Titularidade dos Sistemas
 Os sistemas apresentados neste portfólio são de minha autoria.
 
 Exceções:
-- O **sistema premium** pertence à **Interset Tecnologia**.
-- O **site institucional da MSB Engenharia** pertence à **MSB Engenharia**.
+- O **sistema premium** pertence à **Interset Tecnologia**; atualmente sou responsável pela refatoração de código, correção de falhas e manutenção contínua.
+- O **site institucional da MSB Engenharia** pertence à **MSB Engenharia**; o desenvolvimento foi realizado por mim e sigo responsável pelas manutenções atuais.
 
 ## Diferenciais
 - Execução técnica com visão de negócio e foco em resultado mensurável.
